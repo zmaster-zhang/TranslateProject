@@ -9,13 +9,13 @@
 
 6款开源浏览器
 ======
-Chrome和Firefox是不得不提的，但其他几个也是值得我们关注的。
+Chrome 和 Firefox 是不得不提的，但其他几个也是值得我们关注的。
 
-[web development and design, desktop and browser][1]
+![web development and design, desktop and browser][1]
 
-虽然微软的闭源浏览器IE占据着统治地位，但是开源浏览器依旧有许多事情需要努力的。一直以来，IE就是Windows操作系统的默认浏览器，而在macOS下的默认浏览器是Safari(当然也是闭源的)。但Mozilla发布了Firefox，接着是Google发布了Chrome，从而引发了一场开源浏览器的革命。当然Firefox和Chrome是开源浏览器里占有率最高的，但并不意味着开源浏览器就只有这俩个。
+虽然微软的闭源浏览器IE占据着统治地位，但是开源浏览器依旧有许多事情需要努力的。一直以来，IE 就是 Windows 操作系统的默认浏览器，而在 macOS 下的默认浏览器是 Safari （当然也是闭源的）。但 Mozilla 发布了 Firefox，接着是 Google 发布了 Chrome，从而引发了一场开源浏览器的革命。当然 Firefox 和 Chrome 是开源浏览器里占有率最高的，但并不意味着开源浏览器就只有这俩个。
 
-我们在这里会介绍7款开源浏览器，总结了一下他们的特性，并且希望你们能够多多支持他们。
+我们在这里会介绍六款开源浏览器，总结了一下他们的特性，并且希望你们能够多多支持他们。
 
 名称 / 链接 | 许可 | 支持的操作系统
 ---|---|---
@@ -28,7 +28,7 @@ Chrome和Firefox是不得不提的，但其他几个也是值得我们关注的�
 
 ### Brave
 
-[Brave browser][8]最主要的功能就是为用户更好的管理网页中的广告和网站追踪，它可以屏蔽所有用户不允许出现的广告和网站追踪。 [Brendan Eich][9], 是Brave的项目负责人及CEO兼联合创始人，同时他还是JavaScript的创立者、Mozilla基金会的联合创始人。
+[Brave browser][8] 最主要的功能就是为用户更好的管理网页中的广告和网站追踪，它可以屏蔽所有用户不允许出现的广告和网站追踪。 [Brendan Eich][9], 是 Brave 的项目负责人及 CEO 兼联合创始人，同时他还是 JavaScript 的创立者、Mozilla 基金会的联合创始人。
 
 
 **Brave的特点:**
@@ -36,18 +36,18 @@ Chrome和Firefox是不得不提的，但其他几个也是值得我们关注的�
   * 可以屏蔽广告和网站追踪
   * 速度快
   * 安全
-  * 支持Chromium扩展 [extension support][10]
-  * 可以在 [Brave QA central][11] 追踪程序Bug
+  * 支持 Chromium 扩展 [extension support][10]
+  * 可以在 [Brave QA central][11] 追踪程序 Bug
 
 
 
-**Cons of Brave:**
+**Brave 的不足：**
 
   * The opt-in micro-payment system to support content creators has an unclear pathway to get your payments to your intended recipient
 
 
 
-You can find Brave's source code (available under the Mozilla Public License) in its extensive [GitHub repositories][2] (there are 140 repos as of this writing).
+你可以从这里查看 Brave's 的源代码（基于 Mozilla Public License）[GitHub repositories][2]（这里有140个代码库）。
 
 ### Chrome/Chromium
 
