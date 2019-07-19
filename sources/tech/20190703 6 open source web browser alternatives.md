@@ -8,14 +8,18 @@
 [#]: author: (Bryant Son https://opensource.com/users/brson/users/lauren-pritchett/users/scottnesbitt)
 
 6 open source web browser alternatives
+6款开源浏览器
 ======
 Chrome and Firefox are on the list, but you'll find some other
 interesting options, too.
+Chrome和Firefox是不得不提的，但其他几个也是值得我们关注的。
 ![web development and design, desktop and browser][1]
 
 Open source web browsers have come a long way since Microsoft dominated the web browser market with its closed source Internet Explorer (IE). For many years, IE was the standard browser for Microsoft's Windows operating system, while Safari (also closed source) was the default browser for MacOS. Then Mozilla's introduction of Firefox, followed by Google's release of Chrome, sparked a revolution in open source internet browsers. Those two are extremely well known but are not the only open source browsers available.
+虽然微软的闭源浏览器IE占据着统治地位，但是开源浏览器依旧有许多事情需要努力的。一直以来，IE就是Windows操作系统的默认浏览器，而在macOS下的默认浏览器是Safari(当然也是闭源的)。但Mozilla发布了Firefox，接着是Google发布了Chrome，从而引发了一场开源浏览器的革命。当然Firefox和Chrome是开源浏览器里占有率最高的，但并不意味着开源浏览器就只有这俩个。
 
 This article introduces seven open source browsers, summarizes their features, and shares how you can contribute to them.
+我们在这里会介绍7款开源浏览器，总结了一下他们的特性，并且希望你们能够多多支持他们。
 
 Name / Link to Contribute | License | Supported OSes
 ---|---|---
