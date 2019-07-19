@@ -7,40 +7,37 @@
 [#]: via: (https://opensource.com/article/19/7/open-source-browsers)
 [#]: author: (Bryant Son https://opensource.com/users/brson/users/lauren-pritchett/users/scottnesbitt)
 
-6 open source web browser alternatives
 6款开源浏览器
 ======
-Chrome and Firefox are on the list, but you'll find some other
-interesting options, too.
 Chrome和Firefox是不得不提的，但其他几个也是值得我们关注的。
-![web development and design, desktop and browser][1]
 
-Open source web browsers have come a long way since Microsoft dominated the web browser market with its closed source Internet Explorer (IE). For many years, IE was the standard browser for Microsoft's Windows operating system, while Safari (also closed source) was the default browser for MacOS. Then Mozilla's introduction of Firefox, followed by Google's release of Chrome, sparked a revolution in open source internet browsers. Those two are extremely well known but are not the only open source browsers available.
+[web development and design, desktop and browser][1]
+
 虽然微软的闭源浏览器IE占据着统治地位，但是开源浏览器依旧有许多事情需要努力的。一直以来，IE就是Windows操作系统的默认浏览器，而在macOS下的默认浏览器是Safari(当然也是闭源的)。但Mozilla发布了Firefox，接着是Google发布了Chrome，从而引发了一场开源浏览器的革命。当然Firefox和Chrome是开源浏览器里占有率最高的，但并不意味着开源浏览器就只有这俩个。
 
-This article introduces seven open source browsers, summarizes their features, and shares how you can contribute to them.
 我们在这里会介绍7款开源浏览器，总结了一下他们的特性，并且希望你们能够多多支持他们。
 
-Name / Link to Contribute | License | Supported OSes
+名称 / 链接 | 许可 | 支持的操作系统
 ---|---|---
-[Brave][2] | MPL 2.0 | All
-[Chrome/Chromium][3] | BSD | All
-[Firefox][4] | MPL 2.0 | All
+[Brave][2] | MPL 2.0 | 所有
+[Chrome/Chromium][3] | BSD | 所有
+[Firefox][4] | MPL 2.0 | 所有
 [Konqueror][5] | GPL | Linux
 [Lynx][6] | GPL | Linux, Windows, DOS
 [Midori][7] | LGPL | Linux, Windows
 
 ### Brave
 
-The [Brave browser][8] was created with the goal of blocking all but user-approved advertisements and website trackers. [Brendan Eich][9], the creator of JavaScript and a co-founder of the Mozilla Foundation, leads the Brave project as the CEO and a co-founder.
+[Brave browser][8]最主要的功能就是为用户更好的管理网页中的广告和网站追踪，它可以屏蔽所有用户不允许出现的广告和网站追踪。 [Brendan Eich][9], 是Brave的项目负责人及CEO兼联合创始人，同时他还是JavaScript的创立者、Mozilla基金会的联合创始人。
 
-**Pros of Brave:**
 
-  * No ads or web trackers
-  * Speed
-  * Security
-  * Chromium [extension support][10]
-  * Bugs are tracked in [Brave QA central][11]
+**Brave的特点:**
+
+  * 可以屏蔽广告和网站追踪
+  * 速度快
+  * 安全
+  * 支持Chromium扩展 [extension support][10]
+  * 可以在 [Brave QA central][11] 追踪程序Bug
 
 
 
@@ -173,7 +170,7 @@ via: https://opensource.com/article/19/7/open-source-browsers
 
 作者：[Bryant Son][a]
 选题：[lujun9972][b]
-译者：[译者ID](https://github.com/译者ID)
+译者：[](https://github.com/译者ID)
 校对：[校对者ID](https://github.com/校对者ID)
 
 本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
